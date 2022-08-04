@@ -1,1 +1,1 @@
-# Advice-Generator
+Advice Generator site challenge from https://www.frontendmentor.io for portfolio site (https://nicolasmcghee.github.io/). It uses the https://api.adviceslip.com/advice API and is written in HTML, CSS and JavaScript.
